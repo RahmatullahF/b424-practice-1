@@ -1,1 +1,2 @@
 This is for prcticing pull.
+This is for prcticing conflict by user A.
