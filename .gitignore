@@ -1,0 +1,3 @@
+Token.txt
+*.js
+!app.js
